@@ -1,0 +1,31 @@
+body {
+  background: url(https://cdn11.bigcommerce.com/s-0a27b/images/stencil/original/products/83114/118706/di0997__58869.1581933570.jpg?c=2&fbclid=IwAR1wvlo4M6eTh0J7xWRTM24lctIGy5c31JcUK5XPiUo3TwUgNSerPBBVjFU)
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+main {
+  text-align: center;
+}
+
+#navigation-link {
+  width: 100%;
+  color: #ffffff;
+  text-decoration: none;
+}
+#navigation-link:visited {
+  color: #ffffff;
+}
+#navigation-link:hover {
+  color: #ffffff;
+}
+#navigation-link:active {
+  color: #ffffff;
+}
+
+/* @media only screen and (max-width: 1200px) {
+  
+} */
